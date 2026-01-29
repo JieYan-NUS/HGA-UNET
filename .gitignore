@@ -1,0 +1,36 @@
+# Environments
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data and Models
+# (We exclude large weights and data for GitHub; use Git LFS or external storage for these)
+# model_best.pth
+# Training/
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
+
+# Artifacts and Reports
+inference_result.png
+/tmp/report.html
+/tmp/inference_output.txt
+generate_report.py
+check_deps.py
+inference_runner.py
+PROJECT_OVERVIEW.md
+*.webp
+Training/
+model_best.pth
+.venv/
+__pycache__/
+Training/
+model_best.pth
+.venv/
+__pycache__/
